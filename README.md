@@ -1,4 +1,5 @@
-Urban attractors: Detecting regions attractions in cities. \newline
+Urban attractors: Detecting regions attractions in cities.
+
 This repo provides the full datasets used in detecting urban attractors in Riyadh city. 
 
 The data directory includes the following data sets:
